@@ -3,8 +3,7 @@ template_demo
 
 |build_status| |coverage| |pypi_version| |license|
 
-This is where you should write a short paragraph that describes what your module does,
-how it does it, and why people should use it.
+test
 
 ============== ==============================================================
 PyPI           ``pip install template_demo``
@@ -12,9 +11,7 @@ Source code    https://github.com/dls-controls/template_demo
 Documentation  https://dls-controls.github.io/template_demo
 ============== ==============================================================
 
-This is where you should put some images or code snippets that illustrate
-some relevant examples. If it is a library then you might put some
-introductory code here:
+test
 
 .. code:: python
 
